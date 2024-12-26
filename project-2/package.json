@@ -1,0 +1,12 @@
+{
+  "name": "dependency-management",
+  "version": "1.0.0",
+  "description": "dependency management with lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "calculate": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
