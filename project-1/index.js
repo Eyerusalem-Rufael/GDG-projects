@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const Url = 'https://jsonplaceholder.typicode.com/posts/1';
+const Url = 'https://api.stackexchange.com/2.2/questions?site=stackoverflow';
 
 async function fetch() {
   try{
