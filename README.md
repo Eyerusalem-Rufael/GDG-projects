@@ -16,8 +16,9 @@ This API handles user authentication, blog post CRUD operations, profile managem
 
 > 💻 Developed by: Firaol Gula
 > 📅 Date: April 14, 2025
+
 📂Project Structure
-'''
+
 /project-root
 │
 ├── src/
@@ -32,7 +33,8 @@ This API handles user authentication, blog post CRUD operations, profile managem
 ├── server.js           # Entry point
 ├── package.json
 └── .env                # Environment variables
-'''
+
+
 🧑‍💻Tech stack
 
 | Tool / Library     |  Purpose 
