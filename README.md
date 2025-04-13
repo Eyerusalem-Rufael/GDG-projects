@@ -8,32 +8,7 @@ project 3: This project shows a simple Node.js HTTP server that handles basic AP
 
 Project 4: This project demonstrates a simple Node.js HTTP server that manages a list of users with basic CRUD (Create, Read, Update, Delete) operations. The server provides endpoints to retrieve all users (GET /users), add a new user (POST /users), update an existing user (PUT /users/:id), and delete a user (DELETE /users/:id). It listens on port 4000 and processes requests using Node.js's built-in http module without external dependencies. This project serves as a foundational example for handling API requests and managing data in a server-side environment.
 
-
 ## Project Title: Node.js Backend for Blogging Website
-
-Welcome to the backend of a full featured Blogging Web App built using Node.js, Express
-and MongoDB.
-This API handles user authentication, blog post CRUD operations, profile management and  with clean code, modular structure and RESTful practices.
-
-> 💻 Developed by: Firaol Gula
-> 📅 Date: April 14, 2025
-📂Project Structure
-
-/project-root
-│
-├── src/
-│   ├── config/         # DB connection & dotenv
-│   ├── controllers/    # Business logic
-│   ├── middleware/     # Auth, validation
-│   ├── models/         # Mongoose schemas
-│   ├── routes/         # Express routers
-│   ├── services/       # Token/email utilities
-│   ├── app.js          # Main Express app
-│
-├── server.js           # Entry point
-├── package.json
-└── .env                # Environment variables
-Project Title: Node.js Backend for Blogging Website
 
 Welcome to the backend of a full featured Blogging Web App built using Node.js, Express
 and MongoDB.
