@@ -8,10 +8,3 @@ project 3: This project shows a simple Node.js HTTP server that handles basic AP
 
 Project 4: This project demonstrates a simple Node.js HTTP server that manages a list of users with basic CRUD (Create, Read, Update, Delete) operations. The server provides endpoints to retrieve all users (GET /users), add a new user (POST /users), update an existing user (PUT /users/:id), and delete a user (DELETE /users/:id). It listens on port 4000 and processes requests using Node.js's built-in http module without external dependencies. This project serves as a foundational example for handling API requests and managing data in a server-side environment.
 
-## 👨‍💻 Developer
-
-> Mr. Firaol Gula – Senior Backend Developer
-> 
-> 
-> 🗓️ April 2025
->
