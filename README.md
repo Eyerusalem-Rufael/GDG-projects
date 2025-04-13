@@ -34,3 +34,15 @@ This API handles user authentication, blog post CRUD operations, profile managem
 ├── package.json
 └── .env                # Environment variables
 ```
+```
+Tool / Library 	 Purpose
+Node.js	JavaScript runtime
+Express.js	Web server framework
+MongoDB + Mongoose	NoSQL database & ODM
+JWT	 Secure authentication
+bcrypt	Password hashing
+express-validator	Input validation
+dotenv	Secure environment configs
+Mailtrap SMTP	Password reset email testing
+Google OAuth	Third-party login support 
+```
