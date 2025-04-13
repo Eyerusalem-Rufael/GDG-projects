@@ -18,6 +18,19 @@ This API handles user authentication, blog post CRUD operations, profile managem
 > 📅 Date: April 14, 2025
 
 📂Project Structure
-
-/project-root │ ├── src/ │ ├── config/ # DB connection & dotenv │ ├── controllers/ # Business logic │ ├── middleware/ # Auth, validation │ ├── models/ # Mongoose schemas │ ├── routes/ # Express routers │ ├── services/ # Token/email utilities │ ├── app.js # Main Express app │ ├── server.js # Entry point ├── package.json └── .env # Environment variables
-
+```
+/project-root
+│
+├── src/
+│   ├── config/         # DB connection & dotenv
+│   ├── controllers/    # Business logic
+│   ├── middleware/     # Auth, validation
+│   ├── models/         # Mongoose schemas
+│   ├── routes/         # Express routers
+│   ├── services/       # Token/email utilities
+│   ├── app.js          # Main Express app
+│
+├── server.js           # Entry point
+├── package.json
+└── .env                # Environment variables
+```
